@@ -1,0 +1,15 @@
+.container {
+    margin-left: 250px;
+    width: 1090px;
+    height: 1000px;
+    margin-top: 50px;
+}
+
+.btn {
+    width: 100px;
+    margin: 10px 0px 10px 10px;
+}
+
+.card {
+    height: 800px;
+}
