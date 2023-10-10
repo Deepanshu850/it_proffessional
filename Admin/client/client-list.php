@@ -6,5 +6,5 @@
     while ($fetch = mysqli_fetch_assoc($result)) {
         $data[] = $fetch;
     }
-    echo json_encode($data);
+    // echo json_encode($data);
     ?>

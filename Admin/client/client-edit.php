@@ -1,7 +1,7 @@
 <?php
 require_once('../connection.php');
 $name= $_POST['name' ];
-// $email= $_POST['email' ];
+ 
 $address= $_POST['address' ];
 $phone= $_POST['phone' ];
 $id= $_POST['client_id' ];

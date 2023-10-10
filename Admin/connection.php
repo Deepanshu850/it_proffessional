@@ -1,8 +1,8 @@
  <?php
  
     $servername = "localhost";
-    $username = "training_deepanshu";
-    $password = "y_r}}8{@oL{q";
+    $username = "root";
+    $password = "";
     $dbname = "training_deepanshu_assessment_1";
 
     // Create connection
